@@ -1,5 +1,3 @@
-# generative_models
-From Probabilistic Graphical Models (PGMs) to Deep Generative Models (DGMs)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Generative%20Models&fontSize=45&fontAlign=65&fontAlignY=35)
 
 
