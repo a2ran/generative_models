@@ -2,11 +2,6 @@
 
 
 <div align="center">
-	
-<h4> Learning repository related to general topics of statistical generative models ' <h4/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/Torch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
-<br><br><br>
 
 <h3>Week1 : Basics of Graphical Models</h3>
 <br>
