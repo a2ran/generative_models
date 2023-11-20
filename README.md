@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Generative%20Models&fontSize=45&fontAlign=65&fontAlignY=35)
-
+Prof. Kyungwoo Song 교수님의 GENERATIVE MODEL (STA4124) 강의를 수강하고 공부한 기록입니다.
 
 <div align="center">
 
