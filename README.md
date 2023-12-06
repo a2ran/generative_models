@@ -21,4 +21,4 @@ Things to cover:
 * Hamilton Markov Chain
 ...
 
-I have made brief summary before writing at [Brief Summary]()!
+I have made brief summary before writing at [Brief Summary](https://github.com/a2ran/generative_models/blob/main/brief_summary.ipynb)!
