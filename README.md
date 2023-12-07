@@ -21,4 +21,7 @@ Things to cover:
 * Hamilton Markov Chain
 ...
 
-I have made brief summary before writing at [Brief Summary](https://github.com/a2ran/generative_models/blob/main/brief_summary.ipynb)!
+I have made brief summary before writing!
+
+1. Variational Inference : [Variational Inference](https://github.com/a2ran/generative_models/blob/main/brief_summary.ipynb)!
+2. EM algorithms and GMM : [Expectation-Maximization](https://github.com/a2ran/generative_models/blob/main/brief_summary(EM).ipynb)
